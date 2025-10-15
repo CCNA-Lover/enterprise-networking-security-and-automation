@@ -6,3 +6,5 @@ You have interconnected the devices and configured the interfaces and have conne
 LANs. Your job is to complete the OSPF configuration according to the requirements left by the engineer. 
 Use the information provided and the list of requirements to configure the test network. When the task has 
 been successfully completed, all hosts should be able to ping the internet server.
+# Instructions
+Configure the network to meet the requirements.
