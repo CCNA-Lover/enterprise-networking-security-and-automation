@@ -3,9 +3,9 @@ Use process ID 10 for OSPF activation on all routers.
 - Activate OSPF by configuring the interfaces of the network devices in the Data Service network, where 
 required.
  Configure router IDs on the multiaccess network routers as follows:
-o BC-1: 6.6.6.6
-o BC-2: 5.5.5.5
-o BC-3: 4.4.4.4
+> BC-1: 6.6.6.6
+> BC-2: 5.5.5.5
+> BC-3: 4.4.4.4
 - Configure OSPF so that routing updates are not sent into networks where they are not required.
 - Configure router BC-1 with the highest OSPF interface priority so that it will always be the designated 
 router of the multiaccess network.
