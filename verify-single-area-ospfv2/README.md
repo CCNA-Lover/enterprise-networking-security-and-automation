@@ -1,6 +1,6 @@
 # Objectives
-In this lab, you will use the CLI commands to verify the operation of an existing OSPFv2 network. In Part 2, 
-you will add a new LAN to the configuration and verify connectivity.
+In this lab, you will use the CLI commands to verify the operation of an existing OSPFv2 network.<br>
+In Part 2, you will add a new LAN to the configuration and verify connectivity.
 - Identify and verify the status of OSPF neighbors.
 - Determine how the routes are being learned in the network.
 - Explain how the neighbor state is determined.
